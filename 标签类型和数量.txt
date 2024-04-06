@@ -1,0 +1,20 @@
+各类标签的数量分别为：
+bjdsyc: 789
+bj_wkps: 523
+yw_nc: 883
+xmbhyc: 383
+kgg_ybh: 362
+gbps: 654
+yw_gkxfw: 729
+hxq_gjbs: 1174
+bj_bpmh: 869
+jyz_pl: 410
+bj_bpps: 723
+sly_dmyw: 833
+wcaqm: 567
+wcgz: 815
+ywzt_yfyc: 331
+hxq_gjtps: 106
+xy: 607
+标签类别如下：
+['bjdsyc', 'bj_wkps', 'yw_nc', 'xmbhyc', 'kgg_ybh', 'gbps', 'yw_gkxfw', 'hxq_gjbs', 'bj_bpmh', 'jyz_pl', 'bj_bpps', 'sly_dmyw', 'wcaqm', 'wcgz', 'ywzt_yfyc', 'hxq_gjtps', 'xy']
